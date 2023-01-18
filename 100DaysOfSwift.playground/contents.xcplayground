@@ -6,5 +6,6 @@
         <page name='Day 3 – Arrays, dictionaries, sets, and enums'/>
         <page name='Day 4 – type annotations and checkpoint 2 '/>
         <page name='Day 4 - Checkpoint 2'/>
+        <page name='Day 5 – if, switch, and the ternary operator'/>
     </pages>
 </playground>
