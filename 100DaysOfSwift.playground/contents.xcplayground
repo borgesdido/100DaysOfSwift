@@ -4,5 +4,7 @@
         <page name='Day 1 – variables, constants, strings, and numbers'/>
         <page name='Day 2 – Booleans, string interpolation, and checkpoint 1'/>
         <page name='Day 3 – Arrays, dictionaries, sets, and enums'/>
+        <page name='Day 4 – type annotations and checkpoint 2 '/>
+        <page name='Day 4 - Checkpoint 2'/>
     </pages>
 </playground>
