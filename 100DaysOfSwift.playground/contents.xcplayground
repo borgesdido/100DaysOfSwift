@@ -12,5 +12,7 @@
         <page name='Day 7 – functions, parameters, and return values'/>
         <page name='Day 8 – default values, throwing functions'/>
         <page name='Day 8 – Checkpoint 4'/>
+        <page name='Day 9 – closures, passing functions into functions'/>
+        <page name='Day 9 – Checkpoint 5'/>
     </pages>
 </playground>
