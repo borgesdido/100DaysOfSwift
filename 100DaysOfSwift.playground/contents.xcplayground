@@ -14,5 +14,6 @@
         <page name='Day 8 – Checkpoint 4'/>
         <page name='Day 9 – closures, passing functions into functions'/>
         <page name='Day 9 – Checkpoint 5'/>
+        <page name='Day 10 – structs, computed properties, and property observers'/>
     </pages>
 </playground>
