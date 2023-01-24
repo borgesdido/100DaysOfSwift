@@ -15,5 +15,9 @@
         <page name='Day 9 – closures, passing functions into functions'/>
         <page name='Day 9 – Checkpoint 5'/>
         <page name='Day 10 – structs, computed properties, and property observers'/>
+        <page name='Day 11 – access control, static properties and methods'/>
+        <page name='Day 11 – Checkpoint 6'/>
+        <page name='Day 12 – classes, inheritance'/>
+        <page name='Day 12 – Checkpoint 7'/>
     </pages>
 </playground>
