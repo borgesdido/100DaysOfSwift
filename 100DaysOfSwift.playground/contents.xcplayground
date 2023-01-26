@@ -21,5 +21,7 @@
         <page name='Day 12 – Checkpoint 7'/>
         <page name='Day 13 – protocols, extensions'/>
         <page name='Day 13 – Checkpoint 8'/>
+        <page name='Day 14 – optionals, nil coalescing'/>
+        <page name='Day 14 – Checkpoint 9'/>
     </pages>
 </playground>
