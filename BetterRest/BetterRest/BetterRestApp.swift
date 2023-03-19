@@ -2,7 +2,7 @@
 //  BetterRestApp.swift
 //  BetterRest
 //
-//  Created by Juliana Kaminaga Roppa on 11/02/23.
+//  Created by Diego Araújo Borges da Silva on 11/02/23.
 //
 
 import SwiftUI
